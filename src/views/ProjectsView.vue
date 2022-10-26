@@ -41,6 +41,10 @@ export default {
           name: "gokuganira.png",
           url: "https://gokuganira-lp.herokuapp.com",
         },
+        {
+          name: "novascartas.png",
+          url: "http://novascartas.vercel.app/",
+        },
       ],
     };
   },
