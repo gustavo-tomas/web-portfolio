@@ -17,6 +17,7 @@ export default {
         { name: "flower_closeup.png" },
         { name: "cell_shaded.png" },
         { name: "spicy_314_front.png" },
+        { name: "ships.png" },
       ],
     };
   },
