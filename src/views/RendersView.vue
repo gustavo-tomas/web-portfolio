@@ -15,9 +15,11 @@ export default {
       cells: [
         { name: "headphone.png" },
         { name: "flower_closeup.png" },
-        { name: "cell_shaded.png" },
-        { name: "spicy_314_front.png" },
         { name: "ships.png" },
+        { name: "cnc_machine.png" },
+        { name: "teapot.png" },
+        { name: "spicy_314_front.png" },
+        { name: "cell_shaded.png" },
       ],
     };
   },
