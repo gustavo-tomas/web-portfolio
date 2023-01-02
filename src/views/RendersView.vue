@@ -18,6 +18,7 @@ export default {
         { name: "ships.png" },
         { name: "cnc_machine.png" },
         { name: "teapot.png" },
+        { name: "big_daddy_eevee_final.png" },
         { name: "spicy_314_front.png" },
         { name: "cell_shaded.png" },
       ],
